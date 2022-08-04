@@ -1,0 +1,17 @@
+body{
+    background: #FFFFFF;
+}
+
+.game_interface{
+
+}
+canvas {
+    background: #eee;
+    height: auto;
+}
+h1{
+    text-align: center;
+    font-size:36px;
+    color:#000000;
+    font-family: 'Roboto Condensed', sans-serif;
+}

@@ -1,0 +1,26 @@
+table{
+    text-align: center;
+    width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+tbody{
+    overflow: auto;
+    height: 100px;
+}
+th{
+    text-align: center;
+    width:250px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 20px;
+    background: #eee;
+    border: #003060 2px solid;
+}
+td{
+    width:250px;
+    border: #003060 2px solid;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 16px;
+    background: #eee;
+}

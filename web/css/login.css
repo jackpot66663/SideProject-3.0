@@ -1,0 +1,57 @@
+.login-page {
+    width: 360px;
+    padding: 8% 0 0;
+    margin: auto;
+}
+.form {
+    position: relative;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 50px;
+    padding: 40px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+    font-family: 'Noto Sans TC', sans-serif;
+    outline: 0;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    background: #D0D0D0;
+}
+
+.form button{
+     font-family: 'Noto Sans TC', sans-serif;
+     text-transform: uppercase;
+     outline: 0;
+     background: #0072E3;
+     width: 100%;
+     border: 0;
+     color: #FFFFFF;
+     font-size: 14px;
+}
+
+.form button:hover{
+    background: #005AB5;
+}
+
+.form .message {
+    color: #000000;
+    font-size: 15px;
+}
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.bgpic{
+    background-image: url("https://img.onl/rfQF0T");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
